@@ -1,0 +1,1 @@
+In this project, the goal was to make an asynchronous fetch request to a REST API inorder to get random quotes and display them to the user.
